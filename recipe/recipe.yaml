@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.1"
+  version: "1.0.2"
   python_min: "3.11"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/o/ome-zarrpari/ome_zarrpari-${{ version }}.tar.gz
-  sha256: f257e1c82838c72fa21277c56f794988219b28b377f435d0cbd602c8d8fcdacb
+  sha256: ce0230758e9fc3425a91db744a997fbe3f44b8840327cfe9ed83a17c7617c6d5
 
 build:
   number: 0
